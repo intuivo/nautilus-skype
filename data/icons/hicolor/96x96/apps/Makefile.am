@@ -1,0 +1,9 @@
+themedir = $(datadir)/icons/hicolor
+size = 96x96
+context = apps
+
+iconsdir = $(themedir)/$(size)/$(context)
+
+icons_DATA = skype.png
+
+EXTRA_DIST = $(icons_DATA)

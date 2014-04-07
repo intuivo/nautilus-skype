@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Skype
+GenericName=Skype
+Comment=Make phone calls over voice IP
+Exec=skype start -i
+Terminal=false
+Type=Application
+Icon=skype
+Categories=Network;FileTransfer;
+StartupNotify=false
+Name[en_US]=skype.desktop

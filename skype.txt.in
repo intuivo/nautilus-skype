@@ -1,0 +1,50 @@
+=========
+ skype
+=========
+
+-----------------------------------------------
+A command line interface to the Skype service
+-----------------------------------------------
+
+:Date:   @DATE@
+:Copyright: Copyright (C) 2014-2011 Intuivo, Inc. Free use of this software is granted under the terms of the GNU General Public License (GPL).
+:Version: @PACKAGE_VERSION@
+:Manual section: 1
+
+SYNOPSIS
+========
+
+@SYNOPSIS@
+
+DESCRIPTION
+===========
+
+The *skype* command provides a command line interface to the Skype.
+
+COMMANDS
+========
+
+@COMMANDS@
+
+BUGS
+====
+
+There are currently no known bugs. If you think you have found a bug or have a feature request, post in
+the forums, or send us an e-mail (see the **RESOURCES** section below).
+
+In the future there will be full command line support including linking accounts and setting preferences
+from the *skype* command.
+
+RESOURCES
+=========
+
+* Skype <http://www.skype.com/>
+* Skype Forums <http://forums.skype.com/>
+* Skype Support E-mail <support@skype.com>
+
+AUTHORS
+=======
+
+@AUTHORS@
+
+
